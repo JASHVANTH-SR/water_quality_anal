@@ -7,3 +7,5 @@ yfinance==0.1.54
 lxml>=4.5.1
 gTTS==2.2.2
 googletrans==3.1.0a0
+pandas-profiling==2.10.0
+streamlit-pandas-profiling==0.1.1
