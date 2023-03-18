@@ -45,7 +45,7 @@ translator = Translator()
 
 in_lang = st.selectbox(
     "Select your output language",
-    ("English", "Tamil", "Telugu", "Kannada", "Malayalam", "Kannada"),)
+    ("English", "Tamil", "Telugu", "Kannada", "Malayalam", "Hindi"),)
 text = "Welcome To Water Quality Analysis Software"
 if in_lang == "English":
     output_language = "en"
