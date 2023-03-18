@@ -64,8 +64,7 @@ input_language="en"
 
 
 # Web App Title
-st.title('''
-## The Water Quality Analysis App''')
+st.title('''## The Water Quality Analysis App''')
 runvoice("The Water Quality Analysis App")
 
 st.markdown('''### This is the **Study App** created in Streamlit using the **pandas-profiling** library.
